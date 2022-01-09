@@ -1,0 +1,34 @@
+body {
+	margin: 2em;
+	font-family: "Georgia", "Helvetica", sans-serif;
+	background-color: #EE9;
+}
+main {
+	position: relative;
+	overflow: hidden;
+	width: 40em;
+	height: 30em;
+	margin: 1em;
+	border: 1em inset #008;
+	background-color: #ADE;
+}
+
+img {
+	position: absolute;
+}
+
+
+section {
+	width: 40em;
+	height: 30em;
+	position: absolute;
+}
+
+section p {
+	position: absolute;
+	bottom: 2em;
+	left: 3em;
+	width: 30em;
+	
+}
+
