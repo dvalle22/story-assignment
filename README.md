@@ -1,4 +1,4 @@
-﻿# story-assignment
+﻿# Grof The Hungry Frog
  
 An animated short story using HTML/CSS/JS jQuery and SVGs.
 
